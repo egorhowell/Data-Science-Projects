@@ -1,0 +1,4 @@
+- I modelled whether an individual would accept an insurance quote from a variety of facts (features).
+- This model explored the different features and their importance/correlation to a purchase of a quote.
+- As this was a binary classification, logistic regression was used.
+- The model had an accuracy of 87% and was better at classifying sales than non-sales.
