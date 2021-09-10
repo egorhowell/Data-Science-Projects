@@ -1,1 +1,2 @@
-# This folder contains my work with TensorFlow. Most of it is basic image recoginiation.
+- This folder contains my work with TensorFlow
+- This contains very simple projects so I can practise my skills
